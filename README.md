@@ -17,7 +17,7 @@ This project implements a **Virtual Disk File System** that allows users to crea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vickspanda/vDisk.git
+   git clone https://github.com/vedg2580/v-disk.git
    cd vDisk
    ```
 
